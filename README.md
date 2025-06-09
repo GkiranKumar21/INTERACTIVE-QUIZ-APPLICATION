@@ -61,3 +61,10 @@ This quiz app has been designed with mobile-first principles in mind. CSS media 
 🧑‍💻 Author
 Made with ❤ by GURUGUBELLI KIRAN KUMAR.
 If you liked this project or found it helpful, feel free to ⭐ star the repo and fork it!
+
+#Here are some of the Quiz-App Pictures :
+![Image](https://github.com/user-attachments/assets/200062f9-a470-488e-90a0-5e6ba3e66c60)
+
+![Image](https://github.com/user-attachments/assets/036f04f6-1034-428d-98cd-871f694d80a1)
+
+![Image](https://github.com/user-attachments/assets/1743739d-db33-4dbb-be83-9ae325718067)
